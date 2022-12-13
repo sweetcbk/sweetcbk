@@ -9,7 +9,7 @@ sweetcbk/sweetcbk is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 ### Hi Developers  👋
-[![Linkedin Badge](https://img.shields.io/badge/-Keshri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keshribhan-suryavanshi-740990199/)](https://linkedin.com/in/keshribhan-suryavanshi-740990199/)
+[![Linkedin Badge](https://img.shields.io/badge/-Keshri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sweetcbk/)]([https://linkedin.com/in/keshribhan-suryavanshi-740990199](https://www.linkedin.com/in/sweetcbk)/)
 [![Hackerrank](https://img.shields.io/badge/WebSite-Keshri-green)](https://www.hackerrank.com/keshari0921)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Keshri-yellow)](https://stackoverflow.com/users/12645746/kesharibhan-suryavanshi-)
 
