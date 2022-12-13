@@ -88,11 +88,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<footer>
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12 text-center">
-                        <!-- <h3>Other places you can find me</h3> -->
+
                         <ul class="list-inline social-buttons animated fadeIn">
                             <!-- Facebook Button -->
                             <li><a id="facebook" href="https://www.facebook.com/sweetcbk" target="_blank"><i class="fa fa-facebook"></i></a></li>
@@ -111,18 +107,4 @@ Here are some ideas to get you started:
                             <!-- LinkedIn Button -->
                             <li><a id="linkedin" href="https://www.linkedin.com/in/sweetcbk" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                         </ul>
-                        <div class="page-scroll">
-                            <a id="to-top" class="page-scroll" href="#page-top">
-                                <img id="rocket" src="img/rocket12.png" />
-                            </a>
-                            <p id="to-top-copy">Beam me up, Scotty!</p>
-                        </div>
-                        <div class="copyright">
-                            <!-- please don't steal my stuff without permission -->
-                            <p><i class="fa fa-copyright"></i>&nbsp; Chandra Bhushan &nbsp;  2012 - 2022</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- container -->
-        </footer>
+                    
