@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?flat-square&logo=angular&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
    
-   [Visitor Number:](https://profile-counter.glitch.me/Keshari07/count.svg)
+   Visitor Number:(https://profile-counter.glitch.me/Keshari07/count.svg)
 <br>
    
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
