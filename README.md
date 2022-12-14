@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on Internet
 - 📫 How to reach me [Pune, Maharasta]
 
+
+[![Build a Spotify Connected App]([https://user-images.githubusercontent.com/6599979/131181753-1a256c55-80c1-4cb8-85d3-2099f8f11f93.png](https://github.com/sweetcbk/sweetcbk/blob/master/reedme.jpg))](https://www.newline.co/courses/build-a-spotify-connected-app)
+
+
 <img src="https://github.com/sweetcbk/sweetcbk/blob/master/reedme.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" /> -->
 <!---
 sweetcbk/sweetcbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
