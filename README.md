@@ -5,7 +5,7 @@
 - 📫 How to reach me [Pune, Maharasta]
 
 
-<img src="https://github.com/sweetcbk/sweetcbk/blob/master/reedme.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" /> -->
+<img src="https://github.com/sweetcbk/sweetcbk/blob/master/reedme.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" />
 <!---
 sweetcbk/sweetcbk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
