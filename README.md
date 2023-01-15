@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning new technology...
 - 💞️ I’m looking to collaborate on Internet
 - 📫 How to reach me [Pune, Maharasta]
+- 🖥️ My Profile
+-  🤖 Hackerrank :- https://www.hackerrank.com/sweetcbk
+-  🤖 Twitter    :- https://twitter.com/sweetcbk
 
 
 <img src="https://github.com/sweetcbk/sweetcbk/blob/master/reedme.jpg?raw=true" alt="Bailey the golden retriever has no idea what she's doing and neither do I" />
