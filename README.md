@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 -  🤖 Hackerrank :- https://www.hackerrank.com/sweetcbk<br>
 -  🤖 LinkedIn   :- https://www.linkedin.com/in/sweetcbk<br>
 -  🤖 Twitter    :- https://twitter.com/sweetcbk<br>
-- 👋 Hi, I’m Chandra Bhushan [@sweetcbk]<br>
--    Search me on Google: sweetcbk<br>
+-  Search me on Google-> sweetcbk<br>
+- 👋 Hi, I’m Chandra Bhushan [@sweetcbk]<br> 
 - 👀 I’m interested in Technology<br>
 - 🌱 I’m currently learning new technology...<br>
 - 💞️ I’m looking to collaborate on Internet<br>
